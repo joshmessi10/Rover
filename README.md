@@ -1,6 +1,6 @@
 # 🤖 ESP32 Autonomous Rover with Manual & Auto Navigation
 
-This project implements a smart four-wheeled rover entirely controlled by an **ESP32**, capable of both **manual control via Wi-Fi** and **autonomous navigation** using an **ultrasonic sensor** mounted on a servo. Additional support includes **PID balance control** and a **basic maze-solving algorithm**.
+This project implements a smart six-wheeled rover entirely controlled by an **ESP32**, capable of both **manual control via Wi-Fi** and **autonomous navigation** using an **ultrasonic sensor** mounted on a servo. Additional support includes **PID balance control** and a **basic maze-solving algorithm**.
 
 ---
 
