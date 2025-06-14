@@ -90,7 +90,7 @@ The ESP32 reads pitch angle via DMP, computes PID output, and adjusts motor spee
 
 ## 📸 Media
 
-<img src="https://github.com/user-attachments/assets/3bb989aa-4a4a-437a-bc16-51e47ee48e34" width="250"/>
+<img src="https://github.com/user-attachments/assets/3bb989aa-4a4a-437a-bc16-51e47ee48e34" width="300"/>
 <br/>
 
 
